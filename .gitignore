@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Xcode 个人设置与构建产物
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# Claude Code 本地设置
+.claude/
+
+# 内部开发文档（只留在本地）
+DEVELOPMENT_PLAN.md
+阶段 2*.md
+开发记录.md
